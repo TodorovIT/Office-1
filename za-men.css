@@ -1,0 +1,30 @@
+.profile-image{
+    margin-left: 800px;
+}
+h3{
+    margin-right: 750px;
+    margin-left: 750px;
+}
+/* style.css */
+/* Add any additional styles you may have */
+
+/* za-men.css */
+img {
+    display: block;
+    margin: auto; /* Center the image */
+}
+.profile-image {
+    display: block;
+    margin: auto; /* Center the image */
+}
+
+h3 {
+    text-align: center; /* Center the text */
+    margin: 20px; /* Add some margin for better readability */
+}
+footer {
+    background-color: #333; /* Цвят на фона за долния колонтитул */
+    color: #fff; /* Цвят на текста за долния колонтитул */
+    text-align: center; /* Центриране на текста в долния колонтитул */
+    padding: 20px 0; /* Вътрешен отстъп за по-добър вид */
+}
